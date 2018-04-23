@@ -106,7 +106,7 @@ Find below an example error - triggered when the user did not provide a valid AP
 {
   "success": false,
   "error": {
-    "code": 104,
+    "code": 101,
     "type": "invalid_access_key",
     "info": "You have not supplied a valid API Access Key. [Technical Support: support@apilayer.net]"    
   }
